@@ -1,0 +1,3 @@
+Build Assets Bundles throught the Assets/AssetsBundles/Build Asset Bundles menu
+Copy the folder AssetBundles (next to Assets folder in your file explorer) in
+that Streaming Assets folder next. 

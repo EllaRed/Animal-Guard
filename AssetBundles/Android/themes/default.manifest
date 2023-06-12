@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 3598131839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bd7466bc10dbacf693df30afc4e120c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ae3a53aee46a4e4095d24cbd242c154
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b1d85a2c7e28e1459060064df24f9b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74cb1264bb5e40d47b4850ac0a649a77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4667c4f4d7e27554aa443a56067403a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5397c64509ab92a4b9e8309aebcb66e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01bf43c79f6bad84784689f6386c2e5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5eca7829382d5cf429b6edeef6274948, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1f119face70eef45923442a053ff451, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0270d17b9d0a6a743a1b997c2aa20be1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e38bebbdc31db468a604b05bd1d75e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Themes/Default/themeData.asset
+Dependencies: []

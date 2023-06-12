@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3203195314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ad655a240da449f9c3769e3e8fb085f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 11a5c955d1a2e30efe032bf3173f803a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d3602e240a7c92419a5f52841329955, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc875dc5de77ff64a99457345f14c040, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e38bebbdc31db468a604b05bd1d75e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 397d959cc2da2684c8109d35be73c4a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92346bfd13418574799dcdae1ea13a4e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Characters/Penguin/character.prefab
+Dependencies: []
